@@ -155,10 +155,12 @@ body {
 }
 
 #header2 {
-  position: absolute;
-  float:left;
-  margin: 5px 1600px;
+	position: relative;
+  float: right;
+  margin: 1px 5px;
+  
 }
+
 
 #footer {
   position: absolute;
@@ -169,7 +171,7 @@ body {
 /* popup */
 #popup {
   position: absolute;
-  margin: 1px 2px;
+  margin: 5px 0px;
   max-width: 480px;
   min-width: 300px;
   z-index: 9999;
@@ -227,6 +229,7 @@ body {
 }
 
 #popupbody table td {
+	
   padding-left: 5px;
 }
 
@@ -405,7 +408,7 @@ table.measure tr > td:nth-child(2) {
 #narrativebox {
   position:absolute;
   z-index: 1001;
-  left: 2px;
+  left: 40px;
   top: 2px;
   max-width: 40%;
   max-height: 20%;
