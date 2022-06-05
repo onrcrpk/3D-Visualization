@@ -97,8 +97,10 @@
 </div>
 
 <!-- header and footer -->
-<div id="header">s6047165</div>
-<div id="footer">footer is here</div>
+<div id="header">s6047165 - Onurcan Çirpik</div>
+<div id="header2"><img src="classlegend.jpg"> </div>
+
+<div id="footer">North Arrow</div>
 
 <!-- layer panel -->
 <div id="layerpanel">
